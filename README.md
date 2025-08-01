@@ -1,4 +1,3 @@
 # Projects
-Personal Scripts
-Contains all code I write both in python and any language.
-And also projects
+Scripts written to practice working with different python libraries
+In honour of doing me 
